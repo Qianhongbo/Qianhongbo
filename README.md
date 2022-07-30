@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Qianhongbo, a Master student of UCSD, majored in Intelligence System, Robotics and Control.
+- 👋 Hi, I’m @Qianhongbo, a graduate student in the Department of Electrical and Computer Engineering at the University of California, San Diego. 
 - 👀 I’m interested in coding, traveling and delicious food.
 - 🌱 I’m currently doing some projects related to web development.
 - 📫 My personal website is www.qianhongbo.com
