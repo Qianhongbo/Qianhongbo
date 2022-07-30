@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Qianhongbo, a Master student of UCSD, majored in Intelligence System, Robotics and Control.
 - 👀 I’m interested in coding, traveling and delicious food.
-- 🌱 I’m currently learning iOS develop.
+- 🌱 I’m currently doing some projects related to web development.
 - 📫 My personal website is www.qianhongbo.com
 
 <!---
