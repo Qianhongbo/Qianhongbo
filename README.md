@@ -5,7 +5,7 @@
 - 👋 Hi, I’m Hongbo Qian, a graduate student in the Department of ECE at University of California, San Diego. 
 - 👀 I’m interested in coding, traveling and delicious food.
 - 🌱 I’m currently doing some projects related to web development.
-- 📫 My LinkedIn profile is https://www.linkedin.com/in/maverickqian/ and my personal blog is https://www.qianhongbo.com/
+- 📫 My LinkedIn profile is https://www.linkedin.com/in/maverickqian/ and my personal blog is https://qianhongbo.github.io/
 
 <!---
 Qianhongbo/Qianhongbo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
